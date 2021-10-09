@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello Android 2</string>
+    <string name="hello">Greetings!</string>
+    <string name="buttontext">Set name</string>
+    <string name="hinttext">Enter a name</string>
+</resources>
