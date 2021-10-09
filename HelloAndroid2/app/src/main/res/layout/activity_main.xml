@@ -8,14 +8,13 @@
 
     <TextView
         android:id="@+id/tName"
-        android:layout_width="106dp"
-        android:layout_height="36dp"
-        android:layout_marginBottom="228dp"
+        android:layout_width="175dp"
+        android:layout_height="61dp"
+        android:layout_marginBottom="212dp"
         android:text="@string/hello"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintBottom_toTopOf="@+id/buttName"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button

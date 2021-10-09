@@ -19,12 +19,12 @@ public class MainActivity extends AppCompatActivity {
         eName=(EditText)findViewById(R.id.eName);
         buttName=(Button)findViewById(R.id.buttName);
         tName=(TextView)findViewById(R.id.tName);
-        /*buttName.setOnClickListener(new View.OnClickListener() {
+        buttName.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 tName.setText("Hello, "+eName.getText());
             }
-        });*/
+        });
     }
     public void clicked(View view)
     {
